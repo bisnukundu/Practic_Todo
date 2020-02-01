@@ -1,0 +1,17 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	overflow: hidden;
+}
+table{
+	border:1px solid white;
+}
+table td,th{
+	border: 1px solid white;
+	padding:10px;
+}
+.fr{
+	display: none;
+	transition:1s;
+}
